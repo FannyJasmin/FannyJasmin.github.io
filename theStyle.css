@@ -1,6 +1,8 @@
-title { background-color:lightblue; 
- }
- p {
+head { background-color:lightblue;
+font: 30px; 
+}
+
+p {
   border: 10px darkblue;
   padding-block: 15px;
   Margin: 20px;
