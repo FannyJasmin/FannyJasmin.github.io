@@ -1,11 +1,10 @@
-head { background-color:lightblue;
-font: 30px; 
-position: center;
-}
+
+
 
 p {
-  border: 10px darkblue;
-  padding-block: 15px;
-  Margin: 20px;
-  background-color: magenta;
+	background-color: magenta;
+ 	border:navyblue 10px ;
+ 	padding-block: 15vw;
+  	Margin: 20px;
+  
 }  
