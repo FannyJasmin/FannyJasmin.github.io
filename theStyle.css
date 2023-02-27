@@ -3,9 +3,9 @@ font: 30px;
 position: center;
 }
 
-body {
+p {
   border: 10px darkblue;
   padding-block: 15px;
   Margin: 20px;
   background-color: magenta;
-}
+}  
