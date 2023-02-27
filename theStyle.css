@@ -1,2 +1,7 @@
-{ background-color:lightblue; 
+title { background-color:lightblue; 
  }
+ p {
+  border: 10px darkblue;
+  padding-block: 15px;
+  Margin: 20px;
+}
