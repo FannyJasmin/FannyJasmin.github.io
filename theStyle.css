@@ -1,7 +1,5 @@
- { 
- 	background-color: blue
-}
-Head { font-size: 30px;
+Body { margin-block: 15px; 
+	Border:5px;
 }
 p {
 	background-color: purple;
