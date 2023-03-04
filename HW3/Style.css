@@ -1,0 +1,14 @@
+.HomePage {
+    width: 10px;
+    height: 5px;
+    background-color: skyblue;
+    border: 2px solid firebrick;
+    border-radius: 15px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+}
+
+.HomePage:hover {
+    background-color: lightblue;
+}
