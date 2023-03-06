@@ -30,9 +30,3 @@ body { background-color: lightblue;
    grid-auto-rows: minmax(100px, auto);
 }
 
-.box1 {
-  grid-column-start: 2;
-  grid-column-end: 5;
-  grid-row-start: 3;
-  grid-row-end: 4;
-}
