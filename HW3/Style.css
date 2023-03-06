@@ -21,14 +21,10 @@ hover
 
 img { width:300px;
     height: 600 px;
+    border:4px;
+    border-color:black;
 }
-
 body { background-color: lightblue;
-    margin-block:15px;
+    margin:20px;
     padding:10px;
-}
-p. {background-color: lightblue;
-    margin-block:15px;
-    padding:10px;
-
 }
