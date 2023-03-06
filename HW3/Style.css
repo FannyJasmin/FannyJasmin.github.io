@@ -13,9 +13,13 @@
 .HomePage:
 hover 
 {
- background-color: lightblue;
+ background-color: lightblue;}
+#container {
+  display: grid;
+  grid: repeat(2, 60px) / auto-flow 80px;
 }
-img { size:50px;
+img { width:300px;
+    height: 600 px;
     border: 2px;
 }
 p { margin: auto;
