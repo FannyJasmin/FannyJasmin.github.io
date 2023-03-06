@@ -24,11 +24,7 @@ img { width:300px;
     border:4px;
     border-color: black;
 }
-p { background-color: lightblue;
+body { background-color: lightblue;
     margin:20px;
     padding:10px;
-}
-p.{ background-color: skyblue;
-    margin: 20px;
-
 }
