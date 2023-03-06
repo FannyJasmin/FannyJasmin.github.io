@@ -1,7 +1,7 @@
 .HomePage 
 {
-    width: 50px;
-    height: 40 px;
+    width: 60px;
+    height: 60 px;
     background-color: yellowgreen;
     border: 3px solid firebrick;
     border-radius: 30 px;
@@ -21,10 +21,9 @@ hover
 
 img { width:300px;
     height: 600 px;
-    border:4px;
-    border-color: black;
 }
+
 body { background-color: lightblue;
-    margin:20px;
+    margin-block:15px;
     padding:10px;
 }
