@@ -9,19 +9,26 @@
     color: black;
     cursor: pointer;
 }
-
 .HomePage:
 hover 
 {
  background-color: lightblue;}
+
 #container {
   display: grid;
   grid: repeat(2, 60px) / auto-flow 80px;
 }
+
 img { width:300px;
     height: 600 px;
-    border: 2px;
+    border:4px;
+    border-color: black;
 }
-p { margin: auto;
- 
+p { background-color: lightblue;
+    margin:20px;
+    padding:10px;
+}
+p.{ background-color: skyblue;
+    margin: 20px;
+
 }
