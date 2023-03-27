@@ -1,11 +1,17 @@
-form {
-  /* Center the form on the page */
-  margin: 0 auto;
-  width: 450px;
-  /* Form outline */
+body {
+  font: sans-serif;
   padding: 10px;
-  border: 1px solid #darkblue;
-  border-radius: 3px;
+  margin: 15px;
+  background: #greenyellow;
+}
+form {
+ position: relative;
+  width: 740px;
+  height: 498px;
+  margin: 0 auto;
+  padding: 1em;
+  box-sizing: border-box;
+  background: #fff url(background.jpg);
 }
 ul {
   list-style: none;
