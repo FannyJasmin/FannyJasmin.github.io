@@ -1,0 +1,29 @@
+form {
+  /* Center the form on the page */
+  margin: 0 auto;
+  width: 450px;
+  /* Form outline */
+  padding: 10px;
+  border: 1px solid #darkblue;
+  border-radius: 3px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.button {
+  width: 150px;
+  padding: 20px;
+  margin: 15px;
+  box-sizing: border-box;
+  /* Align buttons with the text fields */
+  padding-left: 90px; /* same size as the label elements */
+}
+
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+}
