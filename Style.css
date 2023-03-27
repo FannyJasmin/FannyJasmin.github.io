@@ -2,7 +2,7 @@ body {
   font: sans-serif;
   padding: 10px;
   margin: 15px;
-  background: #greenyellow;
+  background: greenyellow;
 }
 form {
  position: relative;
