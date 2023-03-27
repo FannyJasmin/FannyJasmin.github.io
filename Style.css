@@ -1,7 +1,5 @@
 body {
   font: sans-serif;
-  padding: 10px;
-  margin: 15px;
   background: greenyellow;
 }
 form {
@@ -11,12 +9,9 @@ form {
   margin: 0 auto;
   padding: 1em;
   box-sizing: border-box;
-  background: #fff url(background.jpg);
 }
 ul {
   list-style: none;
-  padding: 0;
-  margin: 0;
 }
 button {
   width: 350px;
