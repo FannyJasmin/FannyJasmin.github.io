@@ -12,17 +12,15 @@ ul {
   padding: 0;
   margin: 0;
 }
-.button {
-  width: 150px;
-  padding: 20px;
+button {
+  width: 350px;
+  padding: 10px;
   margin: 15px;
   box-sizing: border-box;
   /* Align buttons with the text fields */
   padding-left: 90px; /* same size as the label elements */
 }
 
-input,
-select,
 textarea {
   font-family: inherit;
   font-size: 100%;
