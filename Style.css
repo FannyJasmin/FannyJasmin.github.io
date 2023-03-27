@@ -11,10 +11,10 @@ ul {
   list-style: none;
 }
 button {
-  width: 350px;
+  width: 250px;
   padding: 10px;
   margin: 15px;
-  border-radius: 5px;
+  border-radius: 10px;
   background: none;
   cursor: pointer;
   transform: rotate(-1.5deg);
@@ -22,7 +22,7 @@ button {
 input,
 textarea {
   font: 1.4em/1.5em "handwriting", cursive, sans-serif;
-  border: 3px;
+  border: 3px solid black;
   padding: 10px;
   margin: 5px;
   width: 80%;
