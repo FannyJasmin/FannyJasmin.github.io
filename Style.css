@@ -22,9 +22,10 @@ button {
   width: 350px;
   padding: 10px;
   margin: 15px;
-  box-sizing: border-box;
-  /* Align buttons with the text fields */
-  padding-left: 90px; /* same size as the label elements */
+  border-radius: 5px;
+  background: none;
+  cursor: pointer;
+  transform: rotate(-1.5deg);
 }
 
 textarea {
