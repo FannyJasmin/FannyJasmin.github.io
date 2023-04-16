@@ -1,9 +1,10 @@
 body{
-background: turquoise;
+background: turquoise;}
+p{
 margin: 20px;
 padding: 10px;
-border-block: purple 2px;
-}
+border-block: purple 2px;}
+
 ul{
 	list-style-type: square;
 }
