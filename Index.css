@@ -10,3 +10,6 @@ ul{
 	list-style-type: square;
 	font-family: fantasy;
 }
+li{
+	padding-block: 5px;
+}
