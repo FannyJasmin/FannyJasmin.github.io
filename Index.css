@@ -3,8 +3,10 @@ background: turquoise;}
 p{
 margin: 20px;
 padding: 10px;
-border-block: purple 2px;}
+border-block: purple 2px;
+align-content: center;}
 
 ul{
 	list-style-type: square;
+	font-family: fantasy;
 }
