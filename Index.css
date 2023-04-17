@@ -9,6 +9,7 @@ align-content: center;}
 ul{
 	list-style-type: square;
 	font-family: fantasy;
+	font-size: 16px;
 }
 li{
 	padding-block: 5px;
