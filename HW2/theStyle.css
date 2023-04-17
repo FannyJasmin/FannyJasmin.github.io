@@ -6,5 +6,9 @@ Body { margin-block: 15px;
  	padding-block: 15px;
   	Margin:20px;
   	color: white;
-  
 }  
+p {
+	margin: 10px;
+	padding: 5px;
+	border-color: lavenderblush 2px;
+}
