@@ -9,6 +9,8 @@ Body { margin-block: 15px;
 }  
 p {
 	margin: 10px;
-	padding: 5px;
+	padding: 6px;
 	border-color: lavenderblush 2px;
+	font-family: sans-serif;
+	font-size: 16px;
 }
