@@ -2,3 +2,7 @@ body{
 	background-color: lightskyblue;
 	margin: 10px;
 }
+p{
+	margin: 5 px;
+	padding: 5px;
+}
