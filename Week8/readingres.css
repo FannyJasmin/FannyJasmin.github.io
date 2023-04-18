@@ -1,8 +1,11 @@
 body{
 	background-color: lightskyblue;
 	margin: 10px;
+	padding: 2px;
+	border: black 3px solid;
 }
 p{
-	margin: 5 px;
-	padding: 5px;
+	margin-block: 10 px;
+	padding: 10px;
+	border: purple 3px solid;
 }
