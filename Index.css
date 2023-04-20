@@ -1,16 +1,23 @@
 body{
 background: lavender;}
 p{
-margin: 20px;
-padding: 10px;
-border-block: purple 2px;
-align-content: center;}
-
+margin: 25px;
+padding: 20px;
+border: purple 2px dotted;
+text-align: center;
+font-size: 35px;
+font-family: !important;
+}
 ul{
-	list-style-type: square;
+	list-style-type: none;
 	font-family: fantasy;
 	font-size: 16px;
+	border: skyblue 5px ridge;
+	padding: 10px;
 }
 li{
-	padding-block: 5px;
+	padding-block: 18px;
+	border: black 2px solid;
+	text-transform: uppercase;
+	margin-block: 30px ;
 }
