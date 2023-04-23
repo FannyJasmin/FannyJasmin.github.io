@@ -26,6 +26,7 @@ li{
 }
 :hover {
 	background-color: lightskyblue;
+	flex-grow: 4px;
 }
 
 
