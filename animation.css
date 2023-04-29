@@ -1,3 +1,8 @@
+p:{
+  color:white 14px;
+  background-color: blue;
+}
+
 :root {
   overflow: hidden;
   background-color: blue;
