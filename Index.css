@@ -23,6 +23,9 @@ li{
 	border: black 2px solid;
 	margin-block: 30px ;
 	text-align: center;
+	background-color: lightskyblue;
+	width: 20px;
+	height: 20px;
 }
 :hover {
 	background-color: lightskyblue;
