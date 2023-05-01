@@ -4,7 +4,7 @@ color: white;
 }
 p{
 margin: 35px;
-padding: 20px;
+padding: 25px;
 border: purple 5px dotted;
 text-align: center;
 font-size: 45px;
@@ -18,18 +18,17 @@ ul{
 	text-align: center;
 	margin: 45px;
 }
-li{
-	padding-block: 28px;
-	border: black 2px solid;
-	margin-block: 30px ;
+li{ 
 	text-align: center;
+	padding-block: 30px;
+	border: black 2px solid;
+	margin-block: 25px ;
 	background-color: lightskyblue;
-	width: 120px;
+	width: 725px;
 	height: 20px;
 }
 :hover {
-	background-color: lightskyblue;
-	flex-grow: 4px;
+	background-color: black;
 }
 
 
