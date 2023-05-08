@@ -1,11 +1,11 @@
 body {
 	margin-block: 40px;
 	padding:20 px;
-	border:2px solid silver;
+	border:2px solid antiquewhite;
 	background-color: black;
 }
 
-div { 
+p { 
  	color: white;
  	padding: 10px;
   animation-duration: 3s;
