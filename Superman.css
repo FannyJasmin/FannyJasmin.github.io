@@ -1,0 +1,12 @@
+Body{
+	background-color: skyblue;
+	margin-block: 20 px;
+	padding:10px;
+}
+img{
+	block-size: 300px;
+	padding: 5px;
+}
+P{
+	border:3px solid red;
+}
