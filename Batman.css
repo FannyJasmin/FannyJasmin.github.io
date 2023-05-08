@@ -3,6 +3,8 @@ body {
 	padding:20 px;
 	border:2px solid silver;
 	background-color: black;
+	font-family: monospace;
+	font-size: 20px;
 }
 
 div { 
