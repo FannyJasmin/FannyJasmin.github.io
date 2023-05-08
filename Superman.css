@@ -10,4 +10,6 @@ img{
 
 P{
 	border:3px solid red;
+  grid-area: 1 / col4-start / last-line / 6;
+}
 }
