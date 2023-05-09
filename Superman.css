@@ -4,6 +4,9 @@ Body{
 	padding:20px;
 	align-items: center;
 	border:3px solid red;
+	animation-duration: 5s;
+	animation-name: slidein;
+	animation-iteration-count: 1;
 }
 .container {
 	display: grid;
@@ -15,28 +18,23 @@ Body{
 
 img{
 	block-size: 300px;
-	padding: 5px;
+	padding: 15px;
 }
 
 P{
-	padding: 15px;
+	padding: 20px;
 	font-family: inherit;
-	animation-duration: 3s;
-	animation-name: slidein;
-	animation-iteration-count: 1;
-}
-.item {
-	display: grid;
-  grid-area: 1;
-  grid-column-start: 4;
-  grid-column-end: last-line;
-}
+} 	
 @keyframes slidein {
   from {
     margin-left: 100%;
-    width: 100%;
+    width: 88%;
   }
   to {
-    margin-left: 0%;
-    width: 100%;
-  }
+    margin-left: 5%;
+    width: 88%;
+  } }
+.item {
+	display: grid;
+  grid-area: 1 / col4-start / last-line / 6;;
+}
