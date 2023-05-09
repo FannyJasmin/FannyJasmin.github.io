@@ -6,10 +6,12 @@ body {
 }
 
 p { 
- 	color: white;
+ 	color: darkred;
  	padding: 10px;
   animation-duration: 3s;
   animation-name: slidein;
+  display: grid;
+  grid-area: 1 / col4-start / last-line / 6;;
 }
 @keyframes slidein {
   from {
@@ -31,4 +33,9 @@ p {
 img{
 	block-size: 500px;
 	padding: 30px;
+  display: grid;
+  grid-column-start: 1;
+  grid-column-end: span col4-start;
+  grid-row-start: 2;
+  grid-row-end: span 2
 }
