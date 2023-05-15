@@ -11,7 +11,7 @@ ul{
 	grid: repeat(3, 250px) / auto-flow;
 }
 li {
-	background-color: darkblue;
+	background-color: white;
 	width: 150px;
 	height: 150px;
 }
