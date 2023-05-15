@@ -2,40 +2,33 @@ body {
 	margin: 40px;
 	padding:20 px;
 	border:2px solid darkgoldenrod;
-	background-color: gold;
+	background-color: gold; 
+  animation-duration: 3s;
+  animation-name: slidein;
 }
 
 p { 
  	color: darkred;
  	padding: 10px;
-  animation-duration: 3s;
-  animation-name: slidein;
-  display: grid;
-  grid-area: 1 / col4-start / last-line / 6;;
 }
 @keyframes slidein {
   from {
-    margin-left: 100%;
+    margin-left: -150%;
     width: 300%;
   }
 
-  55% {
-    font-size: 300%;
-    margin-left: 25%;
-    width: 150%;
-  }
-
   to {
-    margin-left: 0%;
+    margin-left: 5%;
     width: 100%;
   }
 }
 img{
 	block-size: 500px;
 	padding: 30px;
-  display: grid;
-  grid-column-start: 1;
-  grid-column-end: span col4-start;
-  grid-row-start: 2;
-  grid-row-end: span 2
 }
+.box{
+    display: grid;
+  width: 840vp;
+  grid-template-columns: 120px 120px 120px;
+  align-items: start;
+  justify-content: space-between;
