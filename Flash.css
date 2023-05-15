@@ -9,7 +9,8 @@ img{
 	display: grid;
 	grid: ;
 }
-P{	padding:10px;
+p{
+	padding:10px;
 	animation-duration: 4s;
 	animation-name: slidein;
 }
