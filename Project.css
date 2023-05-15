@@ -15,6 +15,6 @@ li {
 	width: 150px;
 	height: 150px;
 }
-Img{
-	size: 500 px;
+img{
+	block-size: 150px;
 }
